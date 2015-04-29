@@ -1,0 +1,15 @@
+.canvas {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border: 2px solid black;
+}
+ .wrapper{
+    display:inline-block;
+    
+}
+
+
+/* .resizable {
+    -webkit-user-drag: element;
+} */

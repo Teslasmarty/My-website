@@ -1,0 +1,29 @@
+body{
+  background-image:url("http://static.wallpedes.com/wallpaper/universe/universe-purple-desktop-widescreen-hd-wallpapers-wallpaper-widescreen-hd-desktop-universe-purple-wallpapers.jpg");
+  color:white;
+} 
+#DropdownMenu1{
+  height:30px;
+  width:10;
+  font-size:20px;
+}
+#Number1{
+  height:23px;
+  font-size:40
+  
+}
+#Number2{
+  height:23px;
+    font-size:40
+}
+
+#submitButton{
+  height:30px;
+  width:60;
+    font-size:50;
+  
+}
+#font{
+  font-size:30px;
+  
+}

@@ -1,0 +1,12 @@
+#myButton{
+    border: 2px solid white;
+    display:inline-block;
+    padding:5px;
+}
+#debug{
+    border:2px solid black;
+}
+body{
+  
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd_8hBELvmh7ubYd-o8TpN_HOz1RHWzKndIo6BGKpumRnkbZx7_Q");
+  color:white ;}
