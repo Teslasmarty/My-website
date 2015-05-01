@@ -1,15 +1,16 @@
 body{
-background-image:url("images/vindiniumbackground.png");
-    z-index:1;
+    background-image:url("vindiniumbackground.png");
+    background-size: 100%;
 }
-
-Vindinium.html
- vindiniumbackgroudiv { background-color: white; }
-
-
 
 .wrapper > * {
     display:inline-block;
     vertical-align:top;
     background-color:white;
+}
+h1{
+    text-align:center;
+    background-color:greenyellow;
+    color:blue;
+    display:inline-block;
 }
